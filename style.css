@@ -30,3 +30,31 @@ body{
 	display: inline-block;
     text-align: center;
 }
+
+.h2_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+#hobby2 {
+	text-align: left;
+}
+
+#h2Project_id {
+	padding-bottom: 10px;
+}
+
+.h2_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+    margin-top: 15px;
+	width: 100%;
+	display: inline-block;
+    text-align: center;
+}
